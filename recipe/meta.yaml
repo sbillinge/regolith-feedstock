@@ -25,6 +25,7 @@ requirements:
     - flask
     - jinja2
     - docutils
+    - bibtexparser
 
 test:
   imports:
