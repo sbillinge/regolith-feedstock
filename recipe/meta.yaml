@@ -27,6 +27,7 @@ requirements:
     - docutils
     - bibtexparser
     - ruamel.yaml
+    - cerberus
 
 test:
   imports:
