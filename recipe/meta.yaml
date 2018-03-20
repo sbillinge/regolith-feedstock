@@ -1,6 +1,6 @@
 {% set name = "regolith" %}
-{% set version = "0.1.10" %}
-{% set sha256 = "4856abc702781fc18a619452dd28a73044db20d6ecc0219c2f1433ed4ae990b1" %}
+{% set version = "0.1.11" %}
+{% set sha256 = "4e1c95b88d1a1b7e31ced77cc758c0aeeac0dc4ed6848758455954a6ecc9aaf8" %}
 
 package:
   name: {{ name|lower }}
@@ -27,6 +27,7 @@ requirements:
     - docutils
     - bibtexparser
     - ruamel.yaml
+    - cerberus
 
 test:
   imports:
