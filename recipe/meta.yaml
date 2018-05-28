@@ -32,6 +32,8 @@ requirements:
 test:
   imports:
     - regolith
+  commands:
+    - regolith -h
 
 about:
   home: http://scopatz.github.io/regolith-docs/
