@@ -14,14 +14,15 @@ Summary: Research Group Content Managment System
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/regolith-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/regolith-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/regolith-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/regolith-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/regolith-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/regolith-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/regolith-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/regolith-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/regolith/badges/version.svg)](https://anaconda.org/conda-forge/regolith)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/regolith/badges/downloads.svg)](https://anaconda.org/conda-forge/regolith)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-regolith-green.svg)](https://anaconda.org/conda-forge/regolith) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/regolith.svg)](https://anaconda.org/conda-forge/regolith) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/regolith.svg)](https://anaconda.org/conda-forge/regolith) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/regolith.svg)](https://anaconda.org/conda-forge/regolith) |
 
 Installing regolith
 ===================
