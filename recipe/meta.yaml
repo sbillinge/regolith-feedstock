@@ -28,6 +28,7 @@ requirements:
     - bibtexparser
     - ruamel.yaml
     - cerberus
+    - xonsh
 
 test:
   commands:
