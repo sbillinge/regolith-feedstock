@@ -30,7 +30,7 @@ requirements:
     - ruamel.yaml
     - cerberus
     - xonsh
-    - pyopenxl
+    - openpyxl
 
 test:
   commands:
